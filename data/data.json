@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "category": "Chatbot",
+    "description": "An AI-powered language model developed by OpenAI, capable of generating human-like text based on context and past conversations.",
+    "pricing": "Freemium",
+    "websiteUrl": "https://chat.openai.com",
+    "logoUrl": "https://example.com/logos/chatgpt.png",
+    "expertise": "Any"
+  },
+  {
+    "id": "2",
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "category": "Image Generation",
+    "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+    "pricing": "Paid",
+    "websiteUrl": "https://www.midjourney.com",
+    "logoUrl": "https://example.com/logos/midjourney.png",
+    "expertise": "Pro"
+  },
+  {
+    "id": "3",
+    "name": "GitHub Copilot",
+    "slug": "github-copilot",
+    "category": "Code Assistant",
+    "description": "An AI pair programmer that helps you write code faster and with less work.",
+    "pricing": "Paid",
+    "websiteUrl": "https://github.com/features/copilot",
+    "logoUrl": "https://example.com/logos/copilot.png",
+    "expertise": "Pro"
+  },
+  {
+    "id": "4",
+    "name": "Jasper",
+    "slug": "jasper",
+    "category": "Copywriting",
+    "description": "An AI copilot for enterprise marketing teams who want better outcomes, not just faster outputs.",
+    "pricing": "Paid",
+    "websiteUrl": "https://www.jasper.ai",
+    "logoUrl": "https://example.com/logos/jasper.png",
+    "expertise": "Any"
+  },
+  {
+    "id": "5",
+    "name": "Synthesia",
+    "slug": "synthesia",
+    "category": "Video Generation",
+    "description": "An AI video generation platform that enables you to quickly create videos with AI avatars.",
+    "pricing": "Paid",
+    "websiteUrl": "https://www.synthesia.io",
+    "logoUrl": "https://example.com/logos/synthesia.png",
+    "expertise": "Beginner"
+  },
+  {
+    "id": "6",
+    "name": "Notion AI",
+    "slug": "notion-ai",
+    "category": "Productivity",
+    "description": "A connected workspace where better, faster work happens.",
+    "pricing": "Freemium",
+    "websiteUrl": "https://www.notion.so/product/ai",
+    "logoUrl": "https://example.com/logos/notion.png",
+    "expertise": "Beginner"
+  },
+  {
+    "id": "7",
+    "name": "Hugging Face",
+    "slug": "hugging-face",
+    "category": "Development",
+    "description": "The AI community building the future. Build, train and deploy state of the art models powered by the reference open source in machine learning.",
+    "pricing": "Freemium",
+    "websiteUrl": "https://huggingface.co",
+    "logoUrl": "https://example.com/logos/huggingface.png",
+    "expertise": "Pro"
+  },
+  {
+    "id": "8",
+    "name": "Grammarly",
+    "slug": "grammarly",
+    "category": "Writing Assistant",
+    "description": "A cloud-based typing assistant that reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes.",
+    "pricing": "Freemium",
+    "websiteUrl": "https://www.grammarly.com",
+    "logoUrl": "https://example.com/logos/grammarly.png",
+    "expertise": "Beginner"
+  }
+]
