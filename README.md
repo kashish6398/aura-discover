@@ -19,7 +19,10 @@ Aura Discover is a premium, high-performance AI tools directory built with **Nex
 - **❤️ Favorites System:** Save your favorite AI tools locally (powered by `localStorage`).
 
 ---
+## Live Link
+https://aura-discover.vercel.app/
 
+---
 ## 🛠️ Tech Stack
 
 - **Framework:** Next.js 15 (App Router)
